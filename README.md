@@ -1,4 +1,4 @@
-**Statistical Projects**
+## Statistical Projects
 
 
 **[Simulation Study](http://htmlpreview.github.io/?https://github.com/ranranrunforit/Statistical-Projects/blob/main/Simulation%20Project/sim-proj.html)** 
@@ -38,7 +38,7 @@
 **Keywords**: NLP, word embedding, sentiment analysis  
 **Packages**: R text2vec, glmnet, slam, pROC
 
-**[Movie Recommender System App](https://ranranrunforit.shinyapps.io/movie_recommender_system_app/)  (http://htmlpreview.github.io/?https://github.com/ranranrunforit/Statistical-Projects/blob/main/Recommender%20System/Recommender%20System.html)**
+**[Movie Recommender System App](https://ranranrunforit.shinyapps.io/movie_recommender_system_app/)/[Movie Recommender System](http://htmlpreview.github.io/?https://github.com/ranranrunforit/Statistical-Projects/blob/main/Recommender%20System/Recommender%20System.html)**
 - System I: Recommendation Based on Genres
   - Develop a function to recommend top highly-rated movies based on average ratings and user-selected genre.
   - Provide 10 movie recommendations based on user's input genre.
