@@ -28,7 +28,7 @@
 **Keywords**: sales forecasting, SVD  
 **Packages**: R tidyverse, lubridate, glmnet, readr, dplyr
 
-**[Movie Review Sentiment Analysis](http://htmlpreview.github.io/?https://github.com/ranranrunforit/Statistical-Projects/blob/main/Sentiment%20Analysis/Sentiment%20Analysis%20Report.html)**
+**[Movie Review Sentiment Analysis](http://htmlpreview.github.io/?https://github.com/ranranrunforit/Statistical-Projects/blob/main/Sentiment%20Analysis/Sentiment%20Analysis.html)**
 - Construct vocabulary using "bag-of-words" and "n-gram" strategies.
 - Build document-term matrix (DTM) and employ logistic regression with Lasso regularization for vocabulary trimming.
 - Apply two-sample t-test to rank words based on t-statistics and categorize them into positive and negative lists.
